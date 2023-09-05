@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\bin\Debug\net7.0\ServerSocket.exe
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\bin\Debug\net7.0\ServerSocket.deps.json
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\bin\Debug\net7.0\ServerSocket.runtimeconfig.json
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\bin\Debug\net7.0\ServerSocket.dll
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\bin\Debug\net7.0\ServerSocket.pdb
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.AssemblyInfo.cs
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.dll
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\refint\ServerSocket.dll
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.pdb
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ServerSocket.genruntimeconfig.cache
+C:\Users\user\Desktop\NPS\ServerSocketProj\ServerSocket\obj\Debug\net7.0\ref\ServerSocket.dll
