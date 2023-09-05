@@ -19,16 +19,17 @@ class Program
 
         try
         {
+           // clientSocket.Close();
             clientSocket.Connect(new IPEndPoint(IPAddress.Parse(ServerIp), ServerPort));
 
             Console.WriteLine("Connected to the server.");
 
             while (true)
             {
-                Console.Write("Enter a message to send to the server (or type 'exit' to quit): ");
-                string messageToSend = Console.ReadLine();
+                Console.Write("Enter a message to send to the server (or type 'q' to quit): ");
+                string messageToSend = Console.ReadLine()!;
 
-                if (messageToSend.ToLower() == "exit")
+                if (messageToSend.ToLower() == "q")
                 {
                     break; // Exit the loop and close the client
                 }
